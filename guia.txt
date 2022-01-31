@@ -1,0 +1,42 @@
+1. npm init -y
+2. npm i typescript -D
+3. tsc --init
+4. npm i express
+5. npm i @types/express
+6. npm i dotenv
+7. npm i nodemon -D
+8. npm i ts-node // npm to compile typescript files
+9. npm i -g ts-node
+10. npm i rimraf // npm to run cross-platform script ( win - linux - mac )
+11. npm i morgan // npm to show through consoles requests made to the server
+12. npm i @types/morgan -D
+13. npm i mongoose
+14. npm i @types/mongoose -D
+15. npm i multer // https://www.npmjs.com/package/multer
+16. npm i @types/multer -D
+17. npm i uuid
+18. npm i @types/uuid -D
+19. npm i fs-extra
+20. npm i @types/fs-extra -D
+21. npm i express-validator
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://www.youtube.com/watch?v=OMBwyCNmoPY
